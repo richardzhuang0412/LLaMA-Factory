@@ -1,4 +1,19 @@
 {
+  "openthinker_hermes_function_calling": {
+    "hf_hub_url": "RZ412/reasoning-augmented-hermes-1.4k-new-deduplicated",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "observation_tag": "tool"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
