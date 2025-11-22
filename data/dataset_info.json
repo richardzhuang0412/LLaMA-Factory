@@ -1,4 +1,276 @@
 {
+  "ot3_8k_qwq_r1_length_routing_done_right_min": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_r1_length_routing_done_right_min",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_length_routing_done_right_max": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_r1_length_routing_done_right_max",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_length_routing_done_right_median": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_r1_length_routing_done_right_median",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_random_mix_qwq_50_r1_50_selection_seed_42_assignment_seed_42": {
+    "hf_hub_url": "RZ412/OT_8K_random_mix_qwq_50_r1_50_selection_seed_42_assignment_seed_42",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_single_teacher_seed_42": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_single_teacher_seed_42",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_r1_single_teacher_seed_42": {
+    "hf_hub_url": "RZ412/OT_8K_r1_single_teacher_seed_42",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_median_length": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_median",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_r1_median_length": {
+    "hf_hub_url": "RZ412/OT_8K_r1_median",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_domain_best_routing": {
+    "file_name": "/scr-ssd/richz/teachers/data/routing_strategy/OT_8K_domain_best_routing.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_mixed_random_even_split": {
+    "file_name": "/scr-ssd/richz/teachers/data/mixing_strategy/OT_8K_mixed_random_even_split.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_min_length": {
+    "file_name": "/scr-ssd/richz/teachers/data/routing_strategy/QwQ_min.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_max_length": {
+    "file_name": "/scr-ssd/richz/teachers/data/routing_strategy/QwQ_max.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_r1_min_length": {
+    "file_name": "/scr-ssd/richz/teachers/data/routing_strategy/R1_min.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_r1_max_length": {
+    "file_name": "/scr-ssd/richz/teachers/data/routing_strategy/R1_max.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_random_routed_min_length": {
+    "file_name": "/scr-ssd/richz/teachers/data/optimized_datasets/min_length_r1_1231_qwq_4749.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_random_routed_2": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_qwq_r1_complete_random_routed_sharegpt_2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_random_routed_3": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_qwq_r1_complete_random_routed_sharegpt_3.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_subset_qwq_complete": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_subset_qwq_complete.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_subset_r1_complete": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_subset_r1_complete.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_length_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_qwq_r1_complete_length_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_random_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_qwq_r1_complete_random_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_6k_qwq_r1_complete_inverse_length_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_6k_qwq_r1_complete_inverse_length_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_7k_subset_qwq_complete": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_7k_subset_qwq_complete.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_7k_subset_r1_complete": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_7k_subset_r1_complete.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_inverse_length_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_qwq_r1_inverse_length_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_random_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_qwq_r1_random_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_length_routed": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_qwq_r1_length_routed_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_qwq_val_200": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_qwq_val_200.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_r1_val_200": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_r1_val_200.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_r1_val_200_overlong_filtered": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_r1_val_200_overlong_filtered.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_qwq_1000": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_qwq_sharegpt_1000.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_r1_1000": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_r1_sharegpt_1000.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_qwq_200": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_qwq_sharegpt_200.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "s1k_qwq_8": {
+    "file_name": "/scr-ssd/richz/teachers/data/s1k_qwq_alpaca_format_8.json",
+    "formatting": "alpaca"
+  },
+  "ot3_8k_subset_qwq_100": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_qwq_sharegpt_100.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_r1": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_r1_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_subset_qwq": {
+    "file_name": "/scr-ssd/richz/teachers/data/ot3_8k_subset_qwq_sharegpt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "s1k_qwq": {
+    "file_name": "/scr-ssd/richz/teachers/data/s1k_qwq_alpaca_format.json",
+    "formatting": "alpaca"
+  },
+  "s1k_deepseek": {
+    "file_name": "/scr-ssd/richz/teachers/data/s1k_deepseek_alpaca_format.json",
+    "formatting": "alpaca"
+  },
+  "s1k_gemini": {
+    "file_name": "/scr-ssd/richz/teachers/data/s1k_gemini_alpaca_format.json",
+    "formatting": "alpaca"
+  },
+  "s1k_claude": {
+    "file_name": "/scr-ssd/richz/teachers/data/s1k_claude_alpaca_format.json",
+    "formatting": "alpaca"
+  },
   "identity": {
     "file_name": "identity.json"
   },
