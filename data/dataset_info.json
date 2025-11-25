@@ -1,4 +1,18 @@
 {
+  "ot3_8k_qwq_r1_seed_42_route_on_correctness_seed_42": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_r1_seed_42_route_on_correctness_seed_42",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "ot3_8k_qwq_r1_seed_42_r1_more_correct_seed_42": {
+    "hf_hub_url": "RZ412/OT_8K_qwq_r1_seed_42_r1_more_correct_seed_42",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
   "ot3_8k_qwq_r1_length_routing_done_right_min": {
     "hf_hub_url": "RZ412/OT_8K_qwq_r1_length_routing_done_right_min",
     "formatting": "sharegpt",
